@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Websites for working smart not hard
-cover-img: /assets/img/Cute_Sloth.jpg
-thumbnail-img: /assets/img/Cute_Sloth.jpg
-#share-img: /assets/img/path.jpg
+cover-img: /assets/img/Sloth_small.png
+thumbnail-img: /assets/img/Sloth_small.png
+share-img: /assets/img/Cute_Sloth.jpg
 tags: [websites, research]
 ---
 
