@@ -1,17 +1,25 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Websites for working smart not hard
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [websites, research]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+I have been recommended and stumbling upon many websites so far in my PhD (thank you twitter) that promised to make research a breeze. However, most of them first get me all excited and then I never look at them again. Here are the ones that stayed with me:
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+**1. .[connectedpapers.com](connectedpapers.com)**
+This one is an absolute gem. If you are working on a specific subject and have your favourite research article ligned up, type the title into .[connectedpapers.com](connectedpapers.com) and it will build you a graph of papers that are connected to your target paper. It also directly shows you the authors (year) notation in the graph and the similarity to your paper through the distance between the nodes. When you're not yet familiar with one of them, click on the node and it shows you the abstract. This way you can be sure that if you miss a similar paper in your review or introduction, at least most of your favourite authors missed it too (as it builds the graph based on citations)!
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+**2. .[jane.biosemantics.org](jane.biosemantics.org)**
+Similar to connectedpapers, .[jane.biosemantics.org](jane.biosemantics.org) can recommend you relevant papers. However, it can also recommend authors as potential reviewers or journals for where to publish your work. This is why instead of searching based on a target paper, you can find articles based on your own title, abstract or keywords. Basically, Jane can give you some great advice!
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+**3. Making everything look pretty**
+For this subsection I have a couple of nice websites so that I think they're better off being in here together: [coolors.co](coolors.co) is great for getting nice color maps or finding matching colors to make your figures look pretty (I bet there are others, I just ended up using this). [datavizcatalogue.com](datavizcatalogue.com) is good, if you ever need an overview on which types of graphs are out there and could be useful to you. 
+**And finally** (this one would probably deserve an extra section):  [scidraw.io](scidraw.io) is here for you if you need scientific svg files for anything about the brain but don't want to make them yourself. Need a human brain drawing, it's there; a mouse or a fruitfly, of course they have it. Honestly, it's pretty cool, so go check it out!
+
+**4. .[sci-hub](sci-hub.se)**
+Honestly, you probably know this one (that's why it's at the end) but leaving it out just felt wrong. Whenever you want to start a riot because you're so sick of predatory publishers make you pay to publish your work **AND** to access it **AND** won't pay you for review, know that .[sci-hub](sci-hub.se) (link without guaranty, the address changes often due to its uhm semi-legal activities) is trying it's best to make a crappy situation better. They have almost all paywalled and non-paywalled papers on there, so just look for the papers of your dreams without getting angry.
+
+These are my favourites for now, but I will update it as I learn more and realize what else makes doing science a bit easier for me.
